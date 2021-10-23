@@ -12,5 +12,8 @@ This website is all about providing learning resources, guidance through the eye
 - [ ] Adding other learning resources like videos, articles and blogs to the website
 - [ ] Expanding fields and including research interests
 
+## For Contributors
+
+Keep contributing. Keep learning. Keep sharing.
 
 
