@@ -13,7 +13,7 @@ This website is all about providing learning resources, guidance through the eye
 - [ ] Expanding fields and including research interests
 
 ## Getting Started
-Please go through CONTRIBUTIONS.md
+Please go through [CONTRIBUTIONS.md](CONTRIBUTIONS.md)
 
 ## For Contributors
 
