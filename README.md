@@ -4,13 +4,16 @@ Repository for an informative website containing curated list of resources for s
 
 This website is all about providing learning resources, guidance through the eyes of Physics students, a complete collection of various professors doing research in various fields of physics in India.
 
-## Future goals
+## Future Goals
 
 - [X] Creating a common template on the website
 - [ ] Update Professors' profiles working in various fields
 - [ ] Build a community of contributors both authoring and using Github issues
 - [ ] Adding other learning resources like videos, articles and blogs to the website
 - [ ] Expanding fields and including research interests
+
+## Getting Started
+Please go through CONTRIBUTIONS.md
 
 ## For Contributors
 
