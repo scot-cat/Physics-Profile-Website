@@ -6,6 +6,6 @@
 - Please keep the following in mind:
   - Make it small
   - Do only one thing
-- Please make a Pull Request towards master
+- Please make a Pull Request towards Master
 - Please record your name in [CONTRIBUTORS.md](CONTRIBUTORS.md)
 
